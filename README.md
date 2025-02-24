@@ -12,8 +12,8 @@ I'm a passionate Frontend Developer with a love for building beautiful, responsi
 - [**My Project**](https://priyas2200.github.io/weCare) - A full-featured application with HTML5, CSS3, Javascript.
 
 ## 🌍 Find me on:
-- [LinkedIn](www.linkedin.com/in/priya-sonkar-102009201)
-- [Email](sonkarpriya667@gmail.com)
+- **Contact:** 6266175487
+- **Email:** sonkarpriya667@gmail.com
   
 ## 📚 Currently Learning
 - Exploring **ChakraUI** and its integration with React.
