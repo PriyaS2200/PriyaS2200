@@ -16,7 +16,7 @@ I'm a passionate Frontend Developer with a love for building beautiful, responsi
 - **Email:** sonkarpriya667@gmail.com
   
 ## 📚 Currently Learning
-- Exploring **ChakraUI** and its integration with React.
+- Exploring **ChakraUI**,**Firebase** and its integration with React.
 - Improving my **UX/UI design** skills.
 
 <!--
